@@ -7,3 +7,5 @@ The code above defines two structures, Patient and Hospital, and uses them to re
 The code also defines several functions that operate on the Hospital and Patient structures. The addPatient() function adds a new patient to the hospital, the dischargePatient() function discharges a patient from the hospital, and the printHospital() function prints the current state of the hospital.
 
 From an architectural point of view, the code uses a simple object-oriented design to represent the entities and operations involved in a hospital management system. The Patient and Hospital structures act as classes, and the functions act as methods that operate on instances of these classes. This allows for a clear and modular representation of the problem domain, with each class and function representing a specific aspect of the hospital management system Overall, the code represents a simple and straightforward implementation of a hospital management system, using structures and functions in C to organize and manipulate the data.
+
+the presentation link: https://www.notion.so/salehx/SE-211-01-Term-Project-Hospital-Management-Systems-0d611681ce78464bb63b1e5996816c5a
